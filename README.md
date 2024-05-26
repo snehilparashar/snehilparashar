@@ -30,16 +30,16 @@
 <h5 align="left">
 👋 Hi there! I'm Snehil, a passionate and versatile web developer with a strong foundation in both, frontend and backend technologies. I enjoy building interactive and dynamic web applications that deliver exceptional user experiences.<br> <br>Here's a bit more about my skill set and the projects I've worked on:
 <br><br>
-🔧 Skills<br>
+🔧 Skills:<br>
 Frontend Development: React, HTML, CSS, JavaScript <br>
 Backend Development: Python, Algorithms & Data Structures<br><br>
 <br>
-💼 Projects<br>
+💼 Projects:<br>
 Currency Converter
 <br>
-Rock Paper Scissors 
+Rock-Paper-Scissors Game
 <br>
-Tic Tac Toe Game
+Tic-Tac-Toe Game
 <br><br>
 🌱 What I'm Currently Learning
 I'm continuously enhancing my skills and currently diving deeper into advanced React concepts.
