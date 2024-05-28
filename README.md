@@ -40,6 +40,8 @@ Currency Converter
 Rock-Paper-Scissors Game
 <br>
 Tic-Tac-Toe Game
+<br>
+Designing Front-End for an E-Commerce Page
 <br><br>
 🌱 What I'm Currently Learning
 I'm continuously enhancing my skills and currently diving deeper into advanced React concepts.
