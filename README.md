@@ -35,14 +35,13 @@ Frontend Development: React, HTML, CSS, JavaScript <br>
 Backend Development: Python, Algorithms & Data Structures<br><br>
 <br>
 💼 Projects:<br>
-Currency Converter
+<ul>
+  <li>Currency Converter</li>
+  <li>Rock-Paper-Scissors Game</li>
+  <li>Tic-Tac-Toe Game</li>
+  <li>Designing Front-End for an E-Commerce Page</li>
+  </ul>
 <br>
-Rock-Paper-Scissors Game
-<br>
-Tic-Tac-Toe Game
-<br>
-Designing Front-End for an E-Commerce Page
-<br><br>
 🌱 What I'm Currently Learning
 I'm continuously enhancing my skills and currently diving deeper into advanced React concepts.
 <br><br>
