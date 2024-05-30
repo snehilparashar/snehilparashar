@@ -31,9 +31,10 @@
 👋 Hi there! I'm Snehil, a passionate and versatile web developer with a strong foundation in both, frontend and backend technologies. I enjoy building interactive and dynamic web applications that deliver exceptional user experiences.<br> <br>Here's a bit more about my skill set and the projects I've worked on:
 <br><br>
 🔧 Skills:<br>
-Frontend Development: React, HTML, CSS, JavaScript <br>
-Backend Development: Python, Algorithms & Data Structures<br><br>
-<br>
+<ul>
+<li> Frontend Development: React, HTML, CSS, JavaScript </li> 
+<li>Backend Development: Python, Algorithms & Data Structures </li><br>
+</ul>
 💼 Projects:<br>
 <ul>
   <li>Currency Converter</li>
