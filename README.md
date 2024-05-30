@@ -43,11 +43,11 @@
   <li>Designing Front-End for an E-Commerce Page</li>
   </ul>
 <br>
-🌱 What I'm Currently Learning
-I'm continuously enhancing my skills and currently diving deeper into advanced React concepts.
+🌱 What I'm Currently Learning<br>
+I'm continuously enhancing my skills and diving deeper into advanced React concepts.
 <br><br>
-🚀 Let's Create Something Amazing Together!
-Explore my repositories and projects, and don't hesitate to reach out if you have any ideas or opportunities in mind. Let's connect and build something great!</h5>
+🚀 Let's Create Something Amazing Together!<br>
+Explore my repositories and projects, and don't hesitate to reach out if you have any ideas or opportunities. Let's connect and build something great!</h5>
 
 ###
 
