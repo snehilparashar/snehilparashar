@@ -37,6 +37,8 @@
 </ul>
 💼 Projects:<br>
 <ul>
+  <li>Text Utilities App</li>
+  <li>Designing restaurant menu page</li>
   <li>Currency Converter</li>
   <li>Rock-Paper-Scissors Game</li>
   <li>Tic-Tac-Toe Game</li>
@@ -47,7 +49,7 @@
 I'm continuously enhancing my skills and diving deeper into advanced React concepts.
 <br><br>
 🚀 Let's Create Something Amazing Together!<br>
-Explore my repositories and projects, and don't hesitate to reach out if you have any ideas or opportunities. Let's connect and build something great!</h5>
+I'd like you to please explore my repositories and projects, and don't hesitate to reach out if you have any ideas or opportunities. Let's connect and build something great!</h5>
 
 ###
 
